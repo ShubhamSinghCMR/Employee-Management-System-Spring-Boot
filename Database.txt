@@ -1,0 +1,8 @@
+1. Create a database "emp" in mysql
+2. Create table "emp_system" with attributes:
+id - int
+address - varchar(255)
+email - varchar(255)
+name - varchar(255)
+phno - varchar(255)
+salary - int
